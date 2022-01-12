@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @arkad-cml
 - 👀 I’m interested in Backend Development
-- 🌱 I’m currently learning Microservices, Distributed & Cloud Computing
+- 🌱 I’m currently learning Microservices, Distributed Systems & Cloud Computing
 - 💞️ I’m looking to collaborate with my team at Citymall
 - 📫 Reach me at arkadev.banerjee@citymall.live
 
